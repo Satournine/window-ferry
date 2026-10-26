@@ -1,0 +1,7 @@
+.build/
+Build/
+.swiftpm/
+xcuserdata/
+Window Ferry.app/
+.DS_Store
+AGENTS.md
